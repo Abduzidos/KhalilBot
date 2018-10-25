@@ -1,0 +1,86 @@
+[
+  {
+    "id": "f137f24d-ebb4-4c7e-9341-e7efa00b13dc",
+    "data": [
+      {
+        "text": "estou exausto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "683dfb7a-342b-4b80-ab43-d513a02d884d",
+    "data": [
+      {
+        "text": "trabalhei demais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c08cdfd-c9c1-432e-a853-f6f0c4dc8f06",
+    "data": [
+      {
+        "text": "estou cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5d6c08a-6569-4321-88f1-87f071340f00",
+    "data": [
+      {
+        "text": "estou fatigado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e75c4126-6285-474e-9e5b-2acf00dba81e",
+    "data": [
+      {
+        "text": "estou desgastado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9b9c9bc-652d-4980-a27d-9c71b1ae4d77",
+    "data": [
+      {
+        "text": "estou ficando cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "841ddb0f-94df-411e-ae57-5d5c1ca6171b",
+    "data": [
+      {
+        "text": "me sinto cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

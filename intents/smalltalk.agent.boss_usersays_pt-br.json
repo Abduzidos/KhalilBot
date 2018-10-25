@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9bafd5e9-516b-4af1-b35b-3b8dca458479",
+    "data": [
+      {
+        "text": "quem é seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f55374d-23ff-4d8d-aed7-b0d219154369",
+    "data": [
+      {
+        "text": "quem você acha que é seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c52c0285-96c1-44c1-b1b4-438e8deb8bd3",
+    "data": [
+      {
+        "text": "eu deveria ser seu chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a138160a-eaa9-41b0-9691-1da95bb78812",
+    "data": [
+      {
+        "text": "quem é seu mestre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79935f07-c67a-4f74-a1e5-0451c0e9725f",
+    "data": [
+      {
+        "text": "quem é seu dono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3da676c0-c8ec-4603-9cba-3dd942878561",
+    "data": [
+      {
+        "text": "quem é o chefe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "551a7555-02ab-46dc-bb96-cacdbe390b77",
+    "data": [
+      {
+        "text": "para quem você trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

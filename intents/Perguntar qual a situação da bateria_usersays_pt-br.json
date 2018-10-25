@@ -1,0 +1,134 @@
+[
+  {
+    "id": "f43a3935-9f83-47db-9f68-4da798b74f79",
+    "data": [
+      {
+        "text": "Bateria vai parar de pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e66fbad-667e-4f1a-958f-d607e335175a",
+    "data": [
+      {
+        "text": "Bateria está pegando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d9b8fc1-dff9-4800-bd4e-ac88d25b8334",
+    "data": [
+      {
+        "text": "Bateria vai quebrar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96f2533f-ea6f-4976-be2e-2506ba181bf9",
+    "data": [
+      {
+        "text": "Bateria está quebrada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ccb0b5-3fd3-49e4-ade2-794bb3cd64a0",
+    "data": [
+      {
+        "text": "Bateria está precisando de manutenção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdb54bbb-c070-43ab-a4b2-4d66af2d5c16",
+    "data": [
+      {
+        "text": "Deu ruim na bateria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c488988f-1591-4089-9960-4a0baf1f4dc5",
+    "data": [
+      {
+        "text": "A bateria está prestando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89848b2b-6ca5-4aa0-97a2-8c94af77e09f",
+    "data": [
+      {
+        "text": "Qual a condição da minha bateria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46574506-e9e7-43e2-b9a3-460076b22f9e",
+    "data": [
+      {
+        "text": "A bateria está ruim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "445083cd-2890-44a2-9a28-f2e661547822",
+    "data": [
+      {
+        "text": "Qual o estado da bateria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d959a0af-7acf-4bc1-bc93-863762ecebe3",
+    "data": [
+      {
+        "text": "Como está a bateria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29854e7c-4d7b-43c4-9977-a6f660627caf",
+    "data": [
+      {
+        "text": "Minha bateria está boa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

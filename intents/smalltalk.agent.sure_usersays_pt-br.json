@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1bf04b12-9859-456c-bf68-6894ce6d2856",
+    "data": [
+      {
+        "text": "tem certeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22fec44f-93d8-4283-bdd8-ea7c18781a7f",
+    "data": [
+      {
+        "text": "tem certeza agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b1e51305-f732-49c8-9d79-b8df32a1cad8",
+    "data": [
+      {
+        "text": "tem certeza hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7c17a76-8927-4b7f-bb25-a681c712aa59",
+    "data": [
+      {
+        "text": "tem certeza hoje à noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
