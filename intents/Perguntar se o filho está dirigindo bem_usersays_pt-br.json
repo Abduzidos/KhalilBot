@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f04faf59-29f7-453a-9bfe-e207af32ebba",
+    "data": [
+      {
+        "text": "Meu filho ta dirigindo bêbado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c12576c-9e93-48be-9af1-c9dcd3e0acbc",
+    "data": [
+      {
+        "text": "Como está meu filho na direção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79f07ab9-718e-4fa2-812c-69c99cad2358",
+    "data": [
+      {
+        "text": "Meu filho está se comportando no trânsito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31bc893b-7ff5-468f-8168-fbae07afe7e0",
+    "data": [
+      {
+        "text": "Meu filho está dirigindo bem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

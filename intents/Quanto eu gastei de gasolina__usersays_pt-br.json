@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ccbe32f7-94c5-442c-90d9-6edaa39c97f1",
+    "data": [
+      {
+        "text": "Quanto eu gastei de gasolina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5661bfba-3aa5-4d6a-82ae-c0320434f1b4",
+    "data": [
+      {
+        "text": "Quanto eu consumi de gasolina na ultima viagem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cee094a7-48ff-4f8e-9fb6-78c26161f625",
+    "data": [
+      {
+        "text": "Quantos ",
+        "userDefined": false
+      },
+      {
+        "text": "litros",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de gasolina eu gastei na última viagem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

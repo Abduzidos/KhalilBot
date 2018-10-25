@@ -1,0 +1,43 @@
+{
+  "id": "89dec764-e893-42ec-8cdb-c7e9313a9f2f",
+  "name": "Alertar caso ultrapasse X km/h",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f442fa82-c642-4fb0-9109-68b189f31926",
+          "required": false,
+          "dataType": "@sys.unit-speed",
+          "name": "unit-speed",
+          "value": "$unit-speed",
+          "isList": false
+        },
+        {
+          "id": "0f5e0d48-87df-4717-9acb-3c6aad96ff42",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Vou lhe informar sempre que você ultrapassar mais que 100 kilômetros por hora"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "3ee08562-eb4d-417c-b399-7b53936d94ff",
+    "data": [
+      {
+        "text": "Carro, você está bem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "836b8a7d-89ed-4049-a1bd-eb473d5863e4",
+    "data": [
+      {
+        "text": "Tem alguma coisa errada no carro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "951d5ce2-9b8f-4f3a-84a3-99497a28ecbb",
+    "data": [
+      {
+        "text": "Como está minha bateria, óleo e motor do carro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e585ee12-8d09-4d83-946a-db1a2b8cbf4c",
+    "data": [
+      {
+        "text": "Faz ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " checkup do carro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
